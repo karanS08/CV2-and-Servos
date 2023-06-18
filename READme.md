@@ -23,6 +23,23 @@ To use this project, follow these steps:
 8. The servo motors will adjust their position based on the detected head pose.
 9. Press 'Esc' to quit the program.
 
+## Code Snippet
+to clone and run the project, run the following commands:
+``` 
+git clone
+cd
+python main.py
+```
+
+Images:
+![1](res/1.jpeg)
+![2](res/2.png)
+![3](res/3.png)
+![4](res/4.png)
+![5](res/5.jpeg)
+![6](res/6.mp4)
+
+<br>
 Please ensure that you have the necessary hardware components and proper wiring connections before running the script.
 
 Feel free to customize the code to suit your specific requirements, such as adjusting the servo motor angles, changing the microcontroller, or adding additional functionality.
