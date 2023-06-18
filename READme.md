@@ -24,11 +24,14 @@ To use this project, follow these steps:
 9. Press 'Esc' to quit the program.
 
 ## Code Snippet
-to clone and run the project, run the following commands:
+To clone and run the project, run the following commands:
+<br>
 ``` 
 git clone
-cd
-python main.py
+cd "CV2-and-Servos" 
+pip install -r requirements.txt
+cd src
+python3 main.py
 ```
 
 Images:
@@ -47,3 +50,5 @@ Feel free to customize the code to suit your specific requirements, such as adju
 Enjoy exploring computer vision with pan tilt servo motors!
 
 For more detailed instructions, code snippets, and examples, refer to the project repository.
+
+## Note : The code was developed on a Linux machine (Ubuntu 22.04.2). If you are using a Windows machine, you may need to modify the code to suit your requirements.
