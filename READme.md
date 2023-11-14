@@ -40,7 +40,7 @@ Images:
 ![3](res/3.png)
 ![4](res/4.png)
 ![5](res/5.jpeg)
-![Video](./res/6.mp4)
+![Video](./res/6.gif)
 
 <br>
 Please ensure that you have the necessary hardware components and proper wiring connections before running the script.
